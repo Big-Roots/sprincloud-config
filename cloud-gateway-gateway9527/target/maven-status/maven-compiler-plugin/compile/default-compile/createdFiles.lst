@@ -1,0 +1,3 @@
+com\ygy\springcloud\config\GateWayConfig.class
+com\ygy\springcloud\GateWayMain9527.class
+com\ygy\springcloud\filter\MyLogGateWayFilter.class
